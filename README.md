@@ -13,3 +13,7 @@ psql -h <containerip> -U docker
 docker run -d -link postgresql:db <otherimage>
 ```
 Use `docker` as username and password.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/futoase/docker-postgresql/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
